@@ -1,7 +1,7 @@
 {
   "name": "myportfolio-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Server for my portfolio deployed on Netlify",
   "main": "index.js",
   "scripts": {
     "build": "netlify-lambda build functions",
