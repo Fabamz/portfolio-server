@@ -12,3 +12,5 @@ Thumbs.db
 
 # Build output
 dist/
+
+!functions/db.json
